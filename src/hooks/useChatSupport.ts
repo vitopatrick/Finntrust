@@ -5,7 +5,7 @@ export const useChatSupport = () => {
     // Function to load Tidio Chat
     const loadTidioChat = () => {
       const tidioScript = document.createElement("script");
-      tidioScript.src = "//code.jivosite.com/widget/qMd4rgfBm5";
+      tidioScript.src = "//code.jivosite.com/widget/QscjvGjFXo";
       tidioScript.async = true;
       document.body.appendChild(tidioScript);
     };

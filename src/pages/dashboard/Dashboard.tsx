@@ -41,7 +41,7 @@ const Dashboard = (props: Props) => {
           <MobileSideNav isBarOpen={isOpen} close={setIsOpen} />
         </motion.div>
         <SideNav isBarOpen={isOpen} />
-        <div className="flex-1 min-h-0 overflow-y-scroll">
+        <div className="flex-1 min-h-0 overflow-y-scroll bg-slate-950 text-white">
           <Header isBarOpen={isOpen} closeBar={setIsOpen} />
           {loading ? (
             <>

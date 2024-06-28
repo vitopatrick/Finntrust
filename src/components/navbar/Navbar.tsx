@@ -39,7 +39,7 @@ const Navbar = (props: Props) => {
         {/* Logo */}
         <div>
           <Link to="/" className="tracking-widest font-min text-blue-950">
-            Save Spheres Trust
+            Save Spheres
           </Link>
         </div>
         {/* links */}

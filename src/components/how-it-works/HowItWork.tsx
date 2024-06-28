@@ -20,7 +20,7 @@ const reasons = [
     id: 3,
     title: "Online Banking",
     subTitle:
-      "We are more than just an online bank. We bank online! Trusted by many. Save money, transfer and lots more.",
+      "We are more than just an online bank. We bank online! ed by many. Save money, transfer and lots more.",
     icon: <BanknoteIcon strokeWidth={1.3} color="#3b82f6" size={60} />,
   },
 ];

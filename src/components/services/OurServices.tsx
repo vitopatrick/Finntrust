@@ -14,7 +14,7 @@ const services = [
     id: 1,
     title: "Personal Loan",
     details:
-      "Save Spheres Trust Bank makes installment loans at all of our full-service bank locations, with friendly, helpful loan officers.",
+      "Save Spheres  Bank makes installment loans at all of our full-service bank locations, with friendly, helpful loan officers.",
     icon: <HelpingHandIcon size={40} color="#fff" />,
   },
   {

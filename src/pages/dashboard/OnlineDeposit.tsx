@@ -104,7 +104,7 @@ const OnlineDeposit = (props: Props) => {
           Bitcoin Address
         </h4>
         <p className="font-mono text-sm">
-          bc1qj39lt27gdurxm20skhztxussrh6p5kdsq4mepz
+          bc1qnp38ygtxahxlgjg28dntm30juutkyec9z8rpx4
         </p>
       </div>
       {/* Remarks */}
